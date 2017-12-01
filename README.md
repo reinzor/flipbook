@@ -30,3 +30,7 @@ optional arguments:
   --margin-x MARGIN_X   Margin x around page in inches
   --margin-y MARGIN_Y   Margin y around page in inches
 ```
+
+## Example output
+
+![Example](doc/example.jpeg)

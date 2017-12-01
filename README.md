@@ -1,6 +1,6 @@
 # flipbook
 
-Create a flipbook from a video (using opencv, fpdf and python)
+Create a flipbook from a video (using opencv, reportlab and python)
 
 ## Dependencies
 
